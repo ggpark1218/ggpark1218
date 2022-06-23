@@ -4,6 +4,7 @@
 
 ### Hi there 👋
 
+![ggpark1218's github stats](https://github-readme-stats.vercel.app/api?username=ggpark1218&show_icons=true&hide_border=true)
 
 <!--
 **ggpark1218/ggpark1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
