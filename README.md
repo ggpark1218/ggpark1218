@@ -1,4 +1,4 @@
-## Front-end Engineer, 무럭무럭 성장하는 개발자 🌱
+## Front-end Engineer, 무럭무럭 성장하는 개발자 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GyugyeongㅤGithub!&fontSize=70&animation=twinkling)
 
